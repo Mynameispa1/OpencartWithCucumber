@@ -13,7 +13,7 @@ import io.cucumber.testng.CucumberOptions;
 		,glue={"stepDefinitions"}
 		,dryRun = false
 		,monochrome=true
-		,plugin = {"pretty","html:test-output"
+		,plugin = {"pretty","html:target/test-output","json:target/cucumber.json"
 		,"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 		,tags= "@Master"
 		)
