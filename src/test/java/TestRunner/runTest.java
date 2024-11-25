@@ -9,7 +9,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = {".//Features/"}
+		features = {".//Features/productAdd.feature"}
 		,glue={"stepDefinitions"}
 		,dryRun = false
 		,monochrome=true
