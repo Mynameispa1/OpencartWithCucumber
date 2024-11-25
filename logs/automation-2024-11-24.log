@@ -1,0 +1,64 @@
+16:21:12:999 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:25:35:572 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:26:15:103 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:26:17:585 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:26:17:616 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:26:18:536 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:26:18:652 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:26:19:820 [main] DEBUG stepDefinitions.step - *****Validation*******
+16:26:21:595 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:26:23:918 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:26:23:921 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:26:24:809 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:26:24:933 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:26:26:197 [main] DEBUG stepDefinitions.step - *****Validation*******
+16:26:27:913 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:26:30:553 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:26:30:557 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:26:31:546 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:26:31:703 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:26:32:321 [main] DEBUG stepDefinitions.step - *****Validation*******
+16:26:43:903 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:26:47:455 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:26:47:456 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:26:48:276 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:26:48:374 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:28:38:723 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:28:41:247 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:28:41:350 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:28:42:081 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:28:42:169 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:28:43:328 [main] DEBUG stepDefinitions.step - *****Validation*******
+16:28:45:151 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:28:47:500 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:28:47:503 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:28:48:310 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:28:48:440 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+16:28:49:058 [main] DEBUG stepDefinitions.step - *****Validation*******
+16:29:00:723 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+16:29:03:258 [main] INFO  stepDefinitions.step - ******created Objects*****
+16:29:03:261 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+16:29:04:245 [main] INFO  stepDefinitions.step - *****Entered the password*******
+16:29:04:361 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+17:21:48:601 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+17:21:50:859 [main] INFO  stepDefinitions.step - ******created Objects*****
+17:21:50:887 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+17:21:51:465 [main] INFO  stepDefinitions.step - *****Entered the password*******
+17:21:51:534 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+17:21:52:652 [main] DEBUG stepDefinitions.step - *****Validation*******
+17:21:53:880 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+17:21:56:056 [main] INFO  stepDefinitions.step - ******created Objects*****
+17:21:56:057 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+17:21:56:662 [main] INFO  stepDefinitions.step - *****Entered the password*******
+17:21:56:735 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+17:21:57:293 [main] DEBUG stepDefinitions.step - *****Validation*******
+17:22:08:335 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+17:22:10:501 [main] INFO  stepDefinitions.step - ******created Objects*****
+17:22:10:504 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+17:22:11:107 [main] INFO  stepDefinitions.step - *****Entered the password*******
+17:22:11:184 [main] INFO  stepDefinitions.step - *****Clicked Login*******
+17:34:58:850 [main] INFO  stepDefinitions.step - ******Open the Browser*****
+17:35:02:109 [main] INFO  stepDefinitions.step - ******created Objects*****
+17:35:02:130 [main] INFO  stepDefinitions.step - *****Entered the Email ID*******
+17:35:02:692 [main] INFO  stepDefinitions.step - *****Entered the password*******
+17:35:02:769 [main] INFO  stepDefinitions.step - *****Clicked Login*******
